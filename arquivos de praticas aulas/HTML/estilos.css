@@ -1,0 +1,25 @@
+h1 {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.divs{
+    border: 3px solid #586f70;
+}
+#div1 {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#div2 {
+    background-color: hotpink;
+    width: 200px;
+    height: 300px;
+    color: #ffffff;
+}
+#div3 {
+    background-color: bisque;
+    width: 300px;
+    height: 400px;
+}
